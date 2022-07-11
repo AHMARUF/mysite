@@ -1,1 +1,1 @@
-https://ahmaruf.github.io/mysite/
+http://maruf.liveblog365.com/
